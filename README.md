@@ -1,4 +1,4 @@
-# Modulo de Ventas
+# Modulo de Ventas "SISGRAU"
 Leguaje : C# 
 # 
 Base de Datos : SQL Server
