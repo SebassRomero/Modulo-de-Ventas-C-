@@ -1,2 +1,6 @@
-# Modulo-de-Ventas-C-
-Modulo de Ventas C# con arquitectura MVC y SQL
+# Modulo de Ventas
+Leguaje : C# 
+# 
+Base de Datos : SQL Server
+#
+Arquitectura : MVC
